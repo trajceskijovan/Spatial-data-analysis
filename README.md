@@ -22,3 +22,17 @@ I filtered out few geographical areas such as Alaska, Hawaii, and Puerto Rico fo
 The map contains four visualizations, one for each topic: obesity, inactivity, diabetes, and hypertension. The goal is to analyze obesity in the USA and related drivers and implications by state.
 
 Two maps were created with different designs and formats.
+
+# Map 1:
+
+# Map 2:
+
+
+# Takeaway:
+
+•	The map indicates a high obesity problem in the state of Mississippi, West Virginia, and Alabama. 
+•	We can also see high physical inactivity for the same states compared to the rest of the USA. 
+•	Diabetes is highest in West Virginia and Mississippi.
+•	Lastly, hypertension is highest in Mississippi, West Virginia, and Alabama.
+•	This map indicates that the USA needs to develop a targeted strategy for obesity within the SouthEast region.
+
