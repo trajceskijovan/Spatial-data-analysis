@@ -25,12 +25,12 @@ Two maps were created with different designs and formats.
 
 # Map 1:
 
-![](samples/Map1.png)
+![](Map1.png)
 
 
 # Map 2:
 
-![](samples/Map2.png)
+![](Map2.png)
 
 
 # Takeaway:
