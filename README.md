@@ -30,9 +30,11 @@ Two maps were created with different designs and formats.
 
 # Takeaway:
 
-•	The map indicates a high obesity problem in the state of Mississippi, West Virginia, and Alabama. 
-•	We can also see high physical inactivity for the same states compared to the rest of the USA. 
-•	Diabetes is highest in West Virginia and Mississippi.
-•	Lastly, hypertension is highest in Mississippi, West Virginia, and Alabama.
-•	This map indicates that the USA needs to develop a targeted strategy for obesity within the SouthEast region.
+1. The map indicates a high obesity problem in the state of Mississippi, West Virginia, and Alabama.
+2. We can also see high physical inactivity for the same states compared to the rest of the USA. 
+3. Diabetes is highest in West Virginia and Mississippi.
+4. Lastly, hypertension is highest in Mississippi, West Virginia, and Alabama.
+5. This map indicates that the USA needs to develop a targeted strategy for obesity within the SouthEast region.
+
+
 
