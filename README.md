@@ -24,7 +24,7 @@ I filtered out few geographical areas such as Alaska, Hawaii, and Puerto Rico fo
 
 The map contains four visualizations, one for each topic: obesity, inactivity, diabetes, and hypertension. The goal is to analyze obesity in the USA and related drivers and implications by state.
 
-Two maps were created with different designs and formats.
+Two maps were created with different design and format.
 
 # Map 1:
 
