@@ -52,12 +52,12 @@ library(dplyr)
 lower_usa_48 <- usa %>%
     filter(!(NAME %in% c("Alaska", "District of Columbia", "Hawaii", "Puerto Rico")))
 
-# Load "obesity dataset" and marge with USA base map data
+# Load "obesity dataset" and merge with USA base map data
 ObesityRate <- read.csv("Obesity Rate.csv", stringsAsFactors=FALSE)
 USAobesity <- merge(ObesityRate, lower_usa_48, by="NAME")
 str(USAobesity)
 
-# Load "inactivity dataset" and marge with USA base map data
+# Load "inactivity dataset" and merge with USA base map data
 PhysicalInactivityRate <- read.csv("Physical Inactivity Rate.csv", stringsAsFactors=FALSE)
 USAInactivity <- merge(PhysicalInactivityRate, lower_usa_48, by="NAME")
 str(USAInactivity)
@@ -67,7 +67,7 @@ DiabetesRate <- read.csv("Diabetes Rate.csv", stringsAsFactors=FALSE)
 USADiabetesRate <- merge(DiabetesRate, lower_usa_48, by="NAME")
 str(USADiabetesRate)
 
-# Load "hypertension dataset" and marge with USA base map data
+# Load "hypertension dataset" and merge with USA base map data
 HypertensionRate <- read.csv("Hypertension.csv", stringsAsFactors=FALSE)
 USHypertensionRate <- merge(HypertensionRate, lower_usa_48, by="NAME")
 str(USHypertensionRate)
